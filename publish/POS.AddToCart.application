@@ -14,7 +14,7 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\POS.AddToCart_1_0_0_1\POS.AddToCart.exe.manifest" size="36031">
+    <dependentAssembly dependencyType="install" codebase="Application Files\POS.AddToCart_1_0_0_3\POS.AddToCart.exe.manifest" size="36031">
       <assemblyIdentity name="POS.AddToCart.exe" version="1.0.0.1" publicKeyToken="5b5d586f75c207a3" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
